@@ -4,3 +4,8 @@ ti
 contigo
 usted
 vos
+él
+consigo
+ella
+ellos
+ellas
